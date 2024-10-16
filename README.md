@@ -18,6 +18,7 @@
 ## 讨论渠道
 
 - 微信聊天室
+![Image text](./imges/wechat.jpg)
 
 ## 相关链接
 
