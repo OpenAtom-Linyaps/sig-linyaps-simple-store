@@ -4,3 +4,5 @@
 - [Yoloke](https://github.com/yoloke)
 - [Gyro](https://github.com/bgsdmyck12)
 - [superliya](https://github.com/superliya)
+- [han](https://github.com/HanHan666666)
+- [Freell](https://github.com/SXFreell)
