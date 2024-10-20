@@ -6,3 +6,4 @@
 - [superliya](https://github.com/superliya)
 - [HanHan666666](https://github.com/HanHan666666)
 - [SXFreell](https://github.com/SXFreell)
+- [Rabbit-bear](https://github.com/Rabbit-bear)
