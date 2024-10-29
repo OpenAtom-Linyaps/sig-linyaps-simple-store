@@ -23,4 +23,5 @@
 
 ## 相关链接
 
-- [简易玲珑商店客户端](https://github.com/GershonWang/linglong-store)
+- [玲珑商店Web端](https://github.com/yoloke/Linglong-Shop)
+- [玲珑商店App客户端](https://github.com/GershonWang/linglong-store)
